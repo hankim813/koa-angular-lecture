@@ -5,6 +5,8 @@ Today we'll explore the wonders of [Koa](http://koajs.com/), a :fire: backend `n
 
 We're going to be live coding a simple decoupled app that lets you send fun gifs using the [Giphy API](https://api.giphy.com/)! 
 
+![Coding gif](http://tclhost.com/clya4nh.gif)
+
 Feel free to star this repo for future practice and reference!
 
 ## Lecture Outline
