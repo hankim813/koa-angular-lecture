@@ -7,9 +7,9 @@ We're going to be live coding a simple decoupled app that lets you send fun gifs
 
 Feel free to star this repo for future practice and reference!
 
-### Lecture Outline
+## Lecture Outline
 
-- **Koa**
+#### Koa
   - [ ] Intro
   - [ ] Express vs. Koa
   - [ ] Boot it up
@@ -17,7 +17,7 @@ Feel free to star this repo for future practice and reference!
   - [ ] Middlewares
   - [ ] Set up [Mongo](https://www.mongodb.org/) Database
   
-- **AngularJS**
+#### AngularJS
   - [ ] Intro
   - [ ] React vs. Angular
   - [ ] Boot it up
@@ -27,13 +27,13 @@ Feel free to star this repo for future practice and reference!
   - [ ] Services & Factories
   - [ ] Directives
   
-- **Decouple Architecture**
+#### Decouple Architecture
   - [ ] User Auth
   - [ ] Server side Auth
   - [ ] Client Side Auth
   - [ ] Hook up to [Giphy API](https://api.giphy.com/)!
 
-#### Sources
+##### Sources
 
 - [koa-boot](https://github.com/hankim813/koa-boot) 
 - [angular-boot](https://github.com/hankim813/angular-boot)
