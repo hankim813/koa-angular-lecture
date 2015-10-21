@@ -1,5 +1,5 @@
-![](https://cloudup.com/cYrS8ag1e3I+)
-![](http://www.proxygear.com/images/posts/angularjs-logo.png)
+![KoaJS Logo](https://cloudup.com/coFDLxyL_oM+)
+![AngularJS Logo](http://www.anujgakhar.com/wp-content/uploads/2012/12/angularjs-150x150.png)
 
 # Koa x Angular Lecture
 by Han Kim
