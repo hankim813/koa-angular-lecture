@@ -15,5 +15,5 @@ $ make
 
 ________________________________
 
-Prev: [Boot It Up](./boot-it-up.md) | Next: [Directory Structure](./directory-structure.md) |
+Prev: [Express vs. Koa](./express-vs-koa.md) | Next: [Directory Structure](./directory-structure.md) |
 Home: [Lecture Outline](../README.md)
