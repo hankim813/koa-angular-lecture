@@ -41,5 +41,5 @@ Thus, Koa can be viewed as an *abstraction* of node.js's `http` modules, where a
 #### Source: http://koajs.com/
 ________________________________
 
-Prev: [Express vs. Koa](./express-vs-koa.md) | Next: [Boot it up](./boot-it-up.md)
+Prev: [Express vs. Koa](./express-vs-koa.md) | Next: [Boot it up](./boot-it-up.md) |
 Home: [Lecture Outline](../README.md)
