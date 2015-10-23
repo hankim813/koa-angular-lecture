@@ -9,11 +9,17 @@ You can inject middlewares by simply using `.use()`. Remember that Koa works in 
 
 ![Middleware order matters](https://cloudup.com/c217s4KwN_z+)
 
+You can move onto the next middleware in line by:
+
+```js
+yield next;
+```
+
 #### Resource
 
 Check out some cool middlewares for Koa [here](https://github.com/koajs/koa/wiki).
 
 ________________________________
 
-Prev: [Directory Structure](./directory-structure.md) | Next: [Set Up Mongo Database](./set-up-mongo-database.md) |
+Prev: [Directory Structure](./directory-structure.md) | Next: [Routes](./routes.md) |
 Home: [Lecture Outline](../README.md)
