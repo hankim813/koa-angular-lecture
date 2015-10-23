@@ -22,6 +22,11 @@ You can see the cascading effect of how Koa's middlewares goes downstream then b
 ![Koa Cascading](https://cloudup.com/cEv9rbmqLjd+)
 ![Terminal Output](https://cloudup.com/cG_udanh4_Y+)
 
+## Challenge
+
+Build your own error handler utilizing this down/up stream behavior of Koa middlewares!
+
+
 #### Resource
 
 Check out some cool middlewares for Koa [here](https://github.com/koajs/koa/wiki).
