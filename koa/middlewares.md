@@ -28,5 +28,4 @@ Check out some cool middlewares for Koa [here](https://github.com/koajs/koa/wiki
 
 ________________________________
 
-Prev: [Directory Structure](./directory-structure.md) | Next: [Routes](./routes.md) |
-Home: [Lecture Outline](../README.md)
+Prev: [Directory Structure](./directory-structure.md) | Next: [Routes](./routes.md) | Home: [Lecture Outline](../README.md)
