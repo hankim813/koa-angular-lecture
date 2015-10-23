@@ -12,12 +12,13 @@ Feel free to star this repo for future practice and reference!
 ## Lecture Outline
 
 #### Koa
-  - [ ] Intro
-  - [ ] Express vs. Koa
-  - [ ] Boot it up
-  - [ ] Directory Structure
-  - [ ] Middlewares
-  - [ ] Set up [Mongo](https://www.mongodb.org/) Database
+  - [ ] [Intro](koa/intro.md)
+  - [ ] [Express vs. Koa](koa/express-vs-koa.md)
+  - [ ] [Boot It Up](koa/boot-it-up.md)
+  - [ ] [Directory Structure](koa/directory-structure.md)
+  - [ ] [Middlewares](koa/middlewares.md)
+  - [ ] [Routes](koa/routes.md)
+  - [ ] [Set up A Mongo Database](koa/set-up-a-mongo-database.md)
   
 #### AngularJS
   - [ ] Intro
