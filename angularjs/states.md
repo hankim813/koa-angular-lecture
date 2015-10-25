@@ -54,6 +54,7 @@ The `url` of the parent state will always prepend the `url` of the child states.
 
 Let's build a parent state for the navbar. 
 
+#### Source: https://github.com/angular-ui/ui-router/wiki
 ________________________________
 
 Prev: [Dependency Injection](./dependency-injection.md) | Next: [Controllers](./controllers.md) |
