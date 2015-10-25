@@ -17,7 +17,7 @@ $ npm install --save password-hash
 
 `monk` lets you easily interact with a mongo DB. `co-monk` is a wrapper that basically makes all the functions in `monk` return generator functions so that we can use `yield`! `password-hash` will be used to hash passwords of course.
 
-db.js:
+database.js:
 
 ```js
 /**
@@ -41,7 +41,7 @@ user.js:
  * Module dependencies
  */
 
-var db = require('../db/database');
+var db = require('lib/db/database');
 var wrap = require('co-monk');
 var User = wrap(db.get('user'));
 var passwordHash = require('password-hash');
