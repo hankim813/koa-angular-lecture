@@ -1,16 +1,15 @@
 ![Big Deal](https://s-media-cache-ak0.pinimg.com/originals/7e/a6/fb/7ea6fbd43cad1f8f376bc982b9bae5a2.gif)
 # States
 
-Since every different route is still technically the same page, most of the Angular community like to think of the routes as "states".
-We're going to be using [`ngRoute`](https://docs.angularjs.org/api/ngRoute). 
+Since every different route is still technically the same page, most of the Angular community like to think of the routes as "states". Today, we'll be using the fan favorite, [`ui-router`](https://github.com/angular-ui/ui-router), to configure our states.
 
 Let's define a simple state:
 
 ```js
 .config(['$stateProvider', '$urlRouterProvider', function ($stateProvider, $urlRouterProvider){
 
-		// Redirect all invalid routes to 
-		$urlRouterProvider.otherwise('/');
+	// Redirect all invalid routes to 
+	$urlRouterProvider.otherwise('/');
 
 		// Define states
 		$stateProvider
@@ -21,7 +20,7 @@ Let's define a simple state:
 				controller: 'sampleController',
 				controllerAs: 'sample'
 			});
-	}]);
+}]);
 ```
 
 `.state()` function takes the name of the state and an object with a few more advanced configurations.
