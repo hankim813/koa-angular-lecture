@@ -10,7 +10,9 @@ The general communication between controllers, services, and factories should be
 
 > controllers --- ask ---> services --- ask ---> factories
 
-So you should only inject factories into services and you should only inject services into controllers. 
+So you should only inject factories into services and you should only inject services into controllers.
+
+The common scenario is that a controller needs some information, say.. the current user data. The controller would ask the service for this information. If the service does not already have the current user data, it would then ask the factory to fetch that data from your database. Once the factory returns the user data, the service would save this data and then return to the controller.
 
 Let's take a look at a sample pair of services and factories:
 
@@ -19,7 +21,33 @@ Let's take a look at a sample pair of services and factories:
 
 angular
   .module('app')
+  .factory('userService', ['userFactory', function(userFactory){
+    function fetchUser () {
+      return userFactory.getUser();
+    }
+    
+    return {
+      user: fetchUser
+    };
+  }]);
 ```
+
+```js
+// factory.js
+
+angular
+  .module('app')
+  .factory('userFactory', ['$http', function($http){
+    function getUser() {
+      // make ajax call to DB
+    }
+    
+    return {
+      getUser: getUser
+    };
+  }]);
+```
+
 
 ________________________________
 
