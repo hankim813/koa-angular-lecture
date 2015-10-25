@@ -1,7 +1,7 @@
 # Koa x AngularJS Lecture 
 by *Han Kim*
 
-Today we'll explore the wonders of [Koa](http://koajs.com/), a :fire: backend `node.js` framework that is growing in popularity, and [AngularJS](https://angularjs.org/), the single page stunner.
+Today we'll explore the wonders of [Koa](http://koajs.com/), a :fire: backend `node.js` framework that is growing in popularity, and [AngularJS](https://angularjs.org/), the single page stunner :star2:
 
 We're going to be live coding a simple decoupled app that lets you send fun gifs using the [Giphy API](https://api.giphy.com/)! 
 
