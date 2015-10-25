@@ -52,7 +52,6 @@ your controller!
   
   <button ng-click="dbc.addOne()">Add 1!</button>
 </div>
-
 ```
 ____________________
 Prev: [States](./states.md) | Next: [Services & Factories](./services-and-factories.md) |
