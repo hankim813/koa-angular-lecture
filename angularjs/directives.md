@@ -1,6 +1,7 @@
+![Mind Blown](http://aetherforce.com/wp-content/uploads/2014/05/ik49VlPshlPIz.gif)
 # Directives
 
-At a high level, directives are markers on a DOM element (such as an attribute, element name, comment or CSS class) that tell AngularJS's HTML compiler ($compile) to attach a specified behavior to that DOM element (e.g. via event listeners), or even to transform the DOM element and its children.
+Directives are what makes Angular so magical in my opinion. At a high level, directives are markers on a DOM element (such as an attribute, element name, comment or CSS class) that tell AngularJS's HTML compiler ($compile) to attach a specified behavior to that DOM element (e.g. via event listeners), or even to transform the DOM element and its children.
 
 You can also opt to write your own custom directives!
 
