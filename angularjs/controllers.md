@@ -21,10 +21,10 @@ your controller!
 // state.js
 
 .state('sample', {
-		url: '/',
-		templateUrl: 'view.html',
-		controller: 'someController',
-		controllerAs: 'dbc'
+	url: '/',
+	templateUrl: 'view.html',
+	controller: 'someController',
+	controllerAs: 'dbc'
 });
 ```
 
