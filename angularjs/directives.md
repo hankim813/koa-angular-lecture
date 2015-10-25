@@ -3,6 +3,8 @@
 
 Directives are what makes Angular so magical in my opinion. At a high level, directives are markers on a DOM element (such as an attribute, element name, comment or CSS class) that tell AngularJS's HTML compiler ($compile) to attach a specified behavior to that DOM element (e.g. via event listeners), or even to transform the DOM element and its children.
 
+Some popular built-in directives include, `ng-model`, `ng-repeat`, `ng-if`, `ng-show`, `ng-hide`, and `ng-class`.
+
 You can also opt to write your own custom directives!
 
 Good rule of thumb for when to use directives is when you need to modify the DOM, especially with `jQuery`. 
