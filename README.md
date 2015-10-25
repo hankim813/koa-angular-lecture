@@ -21,14 +21,13 @@ Feel free to star this repo for future practice and reference!
   - [ ] [Set up A Mongo Database](koa/set-up-a-mongo-database.md)
   
 #### AngularJS
-  - [ ] Intro
-  - [ ] React vs. Angular
-  - [ ] Boot it up
-  - [ ] Directory Structure
-  - [ ] States
-  - [ ] Controllers
-  - [ ] Services & Factories
-  - [ ] Directives
+  - [ ] [Intro](angularjs/intro.md)
+  - [ ] [Boot It Up](angularjs/boot-it-up.md)
+  - [ ] [Directory Structure](angularjs/directory-structure.md)
+  - [ ] [States](angularjs/states.md)
+  - [ ] [Controllers](angularjs/controllers.md)
+  - [ ] [Services & Factories](angularjs/services-and-factories.md)
+  - [ ] [Directives](angularjs/directives.md)
   
 #### Decouple Architecture
   - [ ] User Auth
