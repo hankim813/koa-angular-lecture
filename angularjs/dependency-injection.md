@@ -29,7 +29,7 @@ Functions of the module:
 .config(['$stateProvider', '$urlRouterProvider', function ($stateProvider, $urlRouterProvider){ }]);
 ```
 
-Note that the order of your dependecy injections must be the same as the order of the function parameters! :boom:
+*Note*: that the order of your dependecy injections must be the same as the order of the function parameters! :boom:
 
 Dependency injection allows Angular to be modular and makes your code cleaner and pluggable :)
 ________________________________
