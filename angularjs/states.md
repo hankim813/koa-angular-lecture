@@ -57,5 +57,5 @@ Let's build a parent state for the navbar.
 
 ________________________________
 
-Prev: [Directory Structure](./directory-structure.md) | Next: [Controllers](./controllers.md) |
+Prev: [Dependency Injection](./dependency-injection.md) | Next: [Controllers](./controllers.md) |
 Home: [Lecture Outline](../README.md)
