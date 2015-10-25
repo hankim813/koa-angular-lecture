@@ -54,4 +54,4 @@ module.exports = User;
 ```
 ________________________________
 
-Prev: [Routes](./routes.md) | Next: [Angular Intro](../angular/intro.md) | Home: [Lecture Outline](../README.md)
+Prev: [Routes](./routes.md) | Next: [Angular Intro](../angularjs/intro.md) | Home: [Lecture Outline](../README.md)
