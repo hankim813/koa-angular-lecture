@@ -9,5 +9,5 @@ Generally you will have an `index.html` that hosts the main "single" page that w
 
 ________________________________
 
-Prev: [Boot It Up](./boot-it-up.md) | Next: [States](./states.md) |
+Prev: [Boot It Up](./boot-it-up.md) | Next: [Dependency Injection](./dependency-injection.md) |
 Home: [Lecture Outline](../README.md)
