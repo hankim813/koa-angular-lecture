@@ -10,3 +10,5 @@ Angular is what HTML would have been, had it been designed for applications. HTM
 Traditional web applications and frameworks like Ruby on Rails adopt an MVC structure where the controller bridges the model and the view. But in Angular, because everything is done in the browser, the "view" is a star since it also acts as the controller.
 
 #### Source: https://docs.angularjs.org/guide/introduction
+______________________________
+Prev: [Set up a Mongo Database](../koa/set-up-a-mongo-database.md) | Next: [Boot It Up](./boot-it-up.md) | Home: [Lecture Outline](../README.md)
