@@ -24,6 +24,7 @@ Feel free to star this repo for future practice and reference!
   - [ ] [Intro](angularjs/intro.md)
   - [ ] [Boot It Up](angularjs/boot-it-up.md)
   - [ ] [Directory Structure](angularjs/directory-structure.md)
+  - [ ] [Dependency Injection](angularjs/dependency-injection.md)
   - [ ] [States](angularjs/states.md)
   - [ ] [Controllers](angularjs/controllers.md)
   - [ ] [Services & Factories](angularjs/services-and-factories.md)
