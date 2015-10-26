@@ -18,7 +18,6 @@ Let's define a simple state:
 				url: '/',
 				templateUrl: '../components/sample/index.html',
 				controller: 'sampleController',
-				controllerAs: 'sample'
 			});
 }]);
 ```
