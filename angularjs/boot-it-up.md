@@ -5,7 +5,7 @@ Clone the [angular-boot](https://github.com/hankim813/angular-boot) repo:
 
 ```
 $ git clone git@github.com:hankim813/angular-boot.git
-$ cd koa-boot/
+$ cd angular-boot/
 $ rm .git
 ```
 
