@@ -1,13 +1,12 @@
 ![Boot It Up](http://static.fjcdn.com/gifs/When+my+ex+gf+wants+to+get+back+together+nope_1ee7c7_4646625.gif)
 # Boot It Up
 
-Clone the [koa-boot](https://github.com/hankim813/koa-boot) repo, remove the git directory, and re-init!:
+Clone the [koa-boot](https://github.com/hankim813/koa-boot) repo and remove the git directory:
 
 ```
 $ git clone git@github.com:hankim813/koa-boot.git
 $ cd koa-boot/
 $ rm -rf .git
-$ git init
 ```
 
 ## Usage
