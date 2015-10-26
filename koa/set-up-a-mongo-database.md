@@ -24,7 +24,7 @@ database.js:
  * Module dependencies
  */
 
-var db = process.env.MONGOLAB_URI || 'mongodb://localhost/api';
+var db = process.env.MONGOLAB_URI || 'mongodb://localhost/dbc';
 var monk = require('monk');
 
 /**
