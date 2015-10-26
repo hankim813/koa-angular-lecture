@@ -52,6 +52,8 @@ var passwordHash = require('password-hash');
 
 module.exports = User;
 ```
+
+Make sure you have `mongod` running in a separate terminal tab!
 ________________________________
 
 Prev: [Routes](./routes.md) | Next: [Angular Intro](../angularjs/intro.md) | Home: [Lecture Outline](../README.md)
