@@ -1,12 +1,13 @@
 ![Boot It Up](http://giant.gfycat.com/TameSkeletalAmericanquarterhorse.gif)
 # Boot It Up
 
-Clone the [angular-boot](https://github.com/hankim813/angular-boot) repo:
+Clone the [angular-boot](https://github.com/hankim813/angular-boot) repo, remove the git directory, and re-init:
 
 ```
 $ git clone git@github.com:hankim813/angular-boot.git
 $ cd angular-boot/
-$ rm .git
+$ rm -rf .git
+$ git init
 ```
 
 ## Usage
