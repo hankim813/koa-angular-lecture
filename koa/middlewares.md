@@ -24,7 +24,7 @@ You can see the cascading effect of how Koa's middlewares goes downstream then b
 
 ## Challenge
 
-Build your own error handler utilizing this down/up stream behavior of Koa middlewares!
+Build your own [error handler](https://github.com/koajs/koa/wiki/Error-Handling) utilizing this down/up stream behavior of Koa middlewares!
 
 
 #### Resource
