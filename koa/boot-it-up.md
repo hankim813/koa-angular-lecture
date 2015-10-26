@@ -5,6 +5,7 @@ Clone the [koa-boot](https://github.com/hankim813/koa-boot) repo:
 
 ```
 $ git clone git@github.com:hankim813/koa-boot.git
+$ rm .git
 ```
 
 ## Usage
