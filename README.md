@@ -30,7 +30,9 @@ Feel free to star this repo for future practice and reference!
   - [ ] [Services & Factories](angularjs/services-and-factories.md)
   - [ ] [Directives](angularjs/directives.md)
   
-#### Decouple Architecture
+#### Decouple Architecture 
+
+Note: *This part of the notes is WIP!*
   - [ ] User Auth
   - [ ] Server side Auth
   - [ ] Client Side Auth
