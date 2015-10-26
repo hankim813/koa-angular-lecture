@@ -9,15 +9,6 @@ We're going to be live coding a simple decoupled app that lets you send fun gifs
 
 Feel free to star this repo for future practice and reference!
 
-## Schedule
-
-- 6:30PM - 6:50PM | Koa
-- 6:50PM - 7:25PM | Angular
-- --- 5 min break ---
-- 7:30PM - 8:45PM | Build the sample app
-- --- 5 min break ---
-- 8:50PM - 9:30PM | Workshop
-
 ## Lecture Outline
 
 #### Koa
