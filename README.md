@@ -36,7 +36,9 @@ Note: *This part of the notes is WIP!*
   - [ ] User Auth
   - [ ] Server side Auth
   - [ ] Client Side Auth
-  - [ ] Hook up to [Giphy API](https://api.giphy.com/)!
+  - [ ] Hook up to [Giphy API](https://api.giphy.com/)!\
+
+## See the final sample app: https://github.com/hankim813/dbc-sample-app
 
 # Let's Code!
 Go to [Koa: Intro](./koa/intro.md)
